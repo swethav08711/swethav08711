@@ -39,8 +39,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swethav08711&theme=react&hide_border=true&bg_color=0D1117" height="260px" width="33.25%"/>
     </p>
 <br/>
-<a href="https://github.com/swethav08711/github-readme-activity-graph"><img alt="swetha v's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=swethav08711&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-<br/>
+
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
