@@ -45,8 +45,5 @@
 <p align="center">
 
 <a href="https://www.linkedin.com/in/swetha-v-23297b194/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Swetha%20V-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/shwetha4607/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-shwetha-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:shwe08711@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-shwe08711@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
-
-⭐️ From [swethav08711](https://github.com/swethav08711)
