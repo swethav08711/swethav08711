@@ -39,11 +39,10 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swethav08711&theme=react&hide_border=true&bg_color=0D1117" height="260px" width="33.25%"/>
     </p>
 <br/>
-
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
-
+<p align="center" width="100%" margin="auto">
+<h3 align="center"> 🤝🏻 &nbsp;Connect with Me </h3>
 <p align="center">
-
 <a href="https://www.linkedin.com/in/swetha-v-23297b194/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Swetha%20V-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:shwe08711@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-shwe08711@gmail.com-blue?style=flat-square&logo=gmail"></a>
+</p>
 </p>
