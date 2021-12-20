@@ -1,15 +1,19 @@
-<h2> Hey there! I'm Swetha V.</h2>
-
+<h2> Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Swetha V.</h2>
+<p align="center">
+<img align="center" src="https://media1.giphy.com/media/paTz7UZbPfTZFRYnnB/200w.webp?cid=ecf05e4769m5c87kl4zxpm8p5pqh4z7z27mauixfkbeizphz&rid=200w.webp&ct=s" alt="Vandna Tiwari" width="250px" height="250px" />
+ </p>
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Full Stack Web Development.
+- 📫 How to reach me **shwe08711@gmail.com**
 - 🌱 &nbsp; Learning new things and contribute more.
  <br/>
 <h3 align="center">🛠 &nbsp;Tech Stack</h3>
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
   <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+  <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
   </p>
  <p align="center">
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="55" height="40"/> </a>
