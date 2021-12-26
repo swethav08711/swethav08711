@@ -6,7 +6,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Full Stack Web Development.
-- 📫 How to reach me **shwe08711@gmail.com**
+- 📫 &nbsp; How to reach me **shwe08711@gmail.com**
 - 🌱 &nbsp; Learning new things and contribute more.
  <br/>
 <h3 align="center">🛠 &nbsp;Tech Stack</h3>
