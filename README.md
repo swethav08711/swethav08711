@@ -1,11 +1,7 @@
 <h2> Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Swetha V.</h2>
-<p align="center">
-<img align="center" src="https://media1.giphy.com/media/paTz7UZbPfTZFRYnnB/200w.webp?cid=ecf05e4769m5c87kl4zxpm8p5pqh4z7z27mauixfkbeizphz&rid=200w.webp&ct=s" alt="Vandna Tiwari" width="250px" height="250px" />
- </p>
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Full Stack Web Development.
 - 📫 &nbsp; How to reach me **shwe08711@gmail.com**
 - 🌱 &nbsp; Learning new things and contribute more.
  <br/>
